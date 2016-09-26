@@ -16,7 +16,7 @@ public class HojadeTrabajo1 {
     public String getnombre(){
         return nombre;
     }
-    publci int getvalor(){
+    public int getvalor(){
         return valor;
     }
     
